@@ -1,15 +1,22 @@
 # NeuralCodeConverter
 
 This work has been published in NeuroImage,
+
 Yamada K, Miyawaki Y, Kamitani Y (2015). "Inter-subject neural code converter for visual image representation".
+
 http://www.sciencedirect.com/science/article/pii/S1053811915002554
 
 
 Pre-requisites:
+
   Following libraries are required
+
     SPM5       http://www.fil.ion.ucl.ac.uk/spm/software/spm5/
+
     svm-light  http://svmlight.joachims.org/
+
     svm-struct http://www.cs.cornell.edu/people/tj/svm_light/svm_struct.html
+
     svm-multiclass http://www.cs.cornell.edu/people/tj/svm_light/svm_multiclass.html
 
 
