@@ -1,0 +1,16 @@
+About 'D'ata-struct
+
+ .data          -  data value,                                   [samples x channels]
+ .xyz           -  coordinate value,                             [3(x,y,z) x channels]
+ .labels        -  labels,                                       [samples x 1]
+ .tvals         -  t-value of ROI session,                       [1 x channels]
+
+ .labels_names  -  names of labels,                              {1 x labels}
+
+ .rois_inds     -  indexes of samples for each ROI,              {1 x rois}[1 x channels]
+ .rois_names    -  names of ROIs,                                {1 x rois}
+
+ .inds_blocks   -  begin/end indexes of samples for each block,  [2(begin,end) x blocks]
+ .inds_runs     -  begin/end indexes of samples for each run,    [2(begin,end) x runs]
+ .inds_conds    -  indexes of samples for each condition,        {conds x 1}[1 x trials]
+

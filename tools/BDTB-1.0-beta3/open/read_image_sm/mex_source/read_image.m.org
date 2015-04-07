@@ -1,0 +1,11 @@
+% FORMAT [img DIM VOX SCALE TYPE OFFSET ORIGIN] = read_image( fname )
+%
+% Reads image fname and header for fname, returning image as matrix
+% img, mutliplied by SCALE, as well as header info
+%
+% Returns only as many output arguments as passed, e.g
+% [img DIM VOX] = read_image( 'test.img' ) will behave as expected
+%
+% Compiled MEX file
+%
+% Matthew Brett 11/97
