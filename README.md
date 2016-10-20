@@ -1,5 +1,8 @@
 # NeuralCodeConverter
 
+
+<img src="https://github.com/KamitaniLab/figures/blob/master/NeuralCodeConverter.jpg" alt="img" width="650" height="520">
+
 This work has been published in NeuroImage,
 
 Yamada K, Miyawaki Y, Kamitani Y (2015). "Inter-subject neural code converter for visual image representation".
