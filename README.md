@@ -1,6 +1,6 @@
 # Neural Code Converter
 
-![NeuralCodeConverter.jpg](https://github.com/KamitaniLab/figures/blob/master/NeuralCodeConverter.jpg)
+![NeuralCodeConverter.jpg](NeuralCodeConverter.jpg)
 
 Original paper: Yamada K, Miyawaki Y, Kamitani Y (2015) "Inter-subject neural code converter for visual image representation". NeuroImage 113, 289-297. <http://www.sciencedirect.com/science/article/pii/S1053811915002554>
 
